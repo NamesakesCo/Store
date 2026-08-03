@@ -1,1 +1,0 @@
-Replace these with your own product/hero/editorial images (same filenames or update references in data/products.json and components).
